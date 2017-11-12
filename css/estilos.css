@@ -14,5 +14,41 @@ body{
 	margin-top: 20px;
 	border-radius: 10px;
 	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+header{
+	background: #ffffff;
+	height: 133px;
+	float: left;
+}
+nav{
+	background: #005883;
+	height: 190px;
+}
+
+nav li{
+	list-style: none;
+	display: inline-block;
+	padding: 20px 0px;
+}
+
+nav a{
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: arial;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav a:hover{
+	background: #cccccc;
+	color: #000000;
+}
+
+#contenido{
+	float: left;
+	width: 700px;
 	
 }
