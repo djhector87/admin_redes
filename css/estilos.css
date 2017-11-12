@@ -76,3 +76,27 @@ nav a:hover{
 	width: 250px;
 	height: 200px;
 }
+
+.articulos p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: arial;
+}
+
+aside{
+	float: left;
+	width: 250px;
+	background: #ffffff;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+aside h3{
+	font-size: 20px;
+	color: #ffffff;
+	background: #005883;
+	font-family: arial;
+	border-radius: 4px;
+	text-align: center;
+	padding: 10px;
+}
