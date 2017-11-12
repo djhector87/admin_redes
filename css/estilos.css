@@ -75,6 +75,10 @@ section{
 	font-family: arial;
 	text-align: center;
 }
+.articulos h4{
+	text-align: center;
+	color: #005883;
+}
 
 .articulos img{
 	float: left;
