@@ -50,5 +50,29 @@ nav a:hover{
 #contenido{
 	float: left;
 	width: 700px;
-	
+	background: #ffffff;
+	border-radius: 10px;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.articulos{
+	margin: 10px;
+}
+
+.articulos h2{
+	font-size: 40px;
+	padding: 10px;
+	color: #000000;
+	border-bottom: 3px solid #005883;
+	font-family: arial;
+}
+
+.articulos img{
+	float: left;
+	margin: 10px;
+	width: 250px;
+	height: 200px;
 }
