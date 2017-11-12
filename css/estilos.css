@@ -10,6 +10,7 @@ body{
 
 #contenedor{
 	width: 960px;
+	height: 900px;
 	margin: auto;
 	margin-top: 20px;
 	border-radius: 10px;
@@ -47,6 +48,10 @@ nav a:hover{
 	color: #000000;
 }
 
+section{
+	width: 700px;
+	height: 650px;
+}
 #contenido{
 	float: left;
 	width: 700px;
@@ -65,9 +70,10 @@ nav a:hover{
 .articulos h2{
 	font-size: 40px;
 	padding: 10px;
-	color: #000000;
+	color: #005883;
 	border-bottom: 3px solid #005883;
 	font-family: arial;
+	text-align: center;
 }
 
 .articulos img{
@@ -81,11 +87,13 @@ nav a:hover{
 	margin-top: 5px;
 	margin-bottom: 5px;
 	font-family: arial;
+	text-align: justify;
 }
 
 aside{
 	float: left;
 	width: 250px;
+	height: 650px;
 	background: #ffffff;
 	margin-top: 10px;
 	border-radius: 10px;
@@ -99,4 +107,12 @@ aside h3{
 	border-radius: 4px;
 	text-align: center;
 	padding: 10px;
+}
+
+footer{
+	width: 960px;
+	height: 150px;
+	background: #ffffff;
+	clear:both;
+
 }
