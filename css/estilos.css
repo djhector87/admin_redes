@@ -75,6 +75,14 @@ section{
 	font-family: arial;
 	text-align: center;
 }
+h4{
+	font-size: 20px;
+	padding: 10px;
+	color: #005883;
+	border-bottom: 3px solid #005883;
+	font-family: arial;
+	text-align: center;
+}
 .articulos h4{
 	text-align: center;
 	color: #005883;
